@@ -1,0 +1,5 @@
+Orbits_GTO,Orbits_LEO,Orbits_MEO,Orbits_SSO,LaunchSite_Site A,LaunchSite_Site B,LaunchSite_Site C,LandingPad_Pad 1,LandingPad_Pad 2,LandingPad_Pad 3,Serial_SN1,Serial_SN2,Serial_SN3
+0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0
+0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0
